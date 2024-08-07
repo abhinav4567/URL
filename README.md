@@ -18,6 +18,7 @@ It works on the pull deployment model.
 https://www.youtube.com/watch?v=r2UVTDpIUj8
 
 #########################################
+
 **Trivy : Secuirity scan **
 
 https://www.youtube.com/watch?v=6TYrqxPysCg
