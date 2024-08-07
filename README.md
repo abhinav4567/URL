@@ -13,6 +13,11 @@ It works like an agent installed on your Kubernetes cluster.
 
 It works on the pull deployment model.
 ############################################################################
-SonarQube: Security and bug  checks
+**SonarQube: Security and bug  checks**
 
 https://www.youtube.com/watch?v=r2UVTDpIUj8
+
+#########################################
+**Trivy : Secuirity scan **
+
+https://www.youtube.com/watch?v=6TYrqxPysCg
